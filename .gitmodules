@@ -1,0 +1,94 @@
+[submodule "bundle/ag"]
+  path = bundle/ag
+  url = https://github.com/rking/ag.vim.git
+[submodule "bundle/bufexplorer"]
+  path = bundle/bufexplorer
+  url = https://github.com/corntrace/bufexplorer.git
+  ignore = dirty
+[submodule "bundle/supertab"]
+  path = bundle/supertab
+  url = https://github.com/ervandew/supertab.git
+[submodule "bundle/vim-coffee-script"]
+  path = bundle/vim-coffee-script
+  url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/vim-fugitive"]
+  path = bundle/vim-fugitive
+  url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-vinegar"]
+  path = bundle/vim-vinegar
+  url = https://github.com/tpope/vim-vinegar.git
+[submodule "bundle/vim-surround"]
+  path = bundle/vim-surround
+  url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/wildfire.vim"]
+  path = bundle/wildfire.vim
+  url = https://github.com/gcmt/wildfire.vim.git
+[submodule "bundle/vim-javascript"]
+  path = bundle/vim-javascript
+  url = https://github.com/pangloss/vim-javascript.git
+[submodule "bundle/vim-jsx"]
+  path = bundle/vim-jsx
+  url = https://github.com/mxw/vim-jsx.git
+[submodule "bundle/vim-mustache"]
+  path = bundle/vim-mustache
+  url = git@github.com:mustache/vim-mustache-handlebars.git
+[submodule "bundle/coffeescript-style-guide"]
+	path = bundle/coffeescript-style-guide
+	url = git@github.com:bluespeckfinancial/coffeescript-style-guide.git
+[submodule "bundle/vim-syntastic"]
+	path = bundle/vim-syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/lightline"]
+	path = bundle/lightline
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule "bundle/easymotion"]
+	path = bundle/easymotion
+	url = https://github.com/Lokaltog/vim-easymotion.git
+[submodule "bundle/jsx"]
+	path = bundle/jsx
+	url = https://github.com/mxw/vim-jsx.git
+[submodule "bundle/cjsx"]
+	path = bundle/cjsx
+	url = https://github.com/mtscout6/vim-cjsx.git
+[submodule "semantic-highlight.vim"]
+	path = semantic-highlight.vim
+	url = git@github.com:jaxbot/semantic-highlight.vim.git
+[submodule "bundle/vimproc.vim"]
+	path = bundle/vimproc.vim
+	url = git@github.com:Shougo/vimproc.vim.git
+[submodule "bundle/hdevtools"]
+	path = bundle/hdevtools
+	url = git@github.com:bitc/vim-hdevtools.git
+[submodule "bundle/fzf"]
+	path = bundle/fzf
+	url = git@github.com:junegunn/fzf.vim.git
+  ignore = dirty
+[submodule "fzf"]
+	path = fzf
+	url = git@github.com:junegunn/fzf.git
+  ignore = dirty
+[submodule "bundle/haskell_syntax"]
+	path = bundle/haskell_syntax
+	url = git@github.com:urso/haskell_syntax.vim.git
+[submodule "bundle/haskell-vim"]
+	path = bundle/haskell-vim
+	url = git@github.com:neovimhaskell/haskell-vim.git
+[submodule "bundle/syntastic-local-eslint"]
+	path = bundle/syntastic-local-eslint
+	url = git@github.com:mtscout6/syntastic-local-eslint.vim.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = git://github.com/gabrielelana/vim-markdown.git
+[submodule "bundle/elm-vim"]
+	path = bundle/elm-vim
+	url = https://github.com/lambdatoast/elm.vim.git
+  ignore = dirty
+[submodule "bundle/vimproc"]
+	path = bundle/vimproc
+	url = git@github.com:Shougo/vimproc.vim.git
+[submodule "bundle/hlint-refactor-vim"]
+	path = bundle/hlint-refactor-vim
+	url = git@github.com:mpickering/hlint-refactor-vim.git
+[submodule "bundle/vim-markdown-preview"]
+	path = bundle/vim-markdown-preview
+	url = git@github.com:JamshedVesuna/vim-markdown-preview.git
